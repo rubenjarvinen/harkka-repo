@@ -1,3 +1,5 @@
+git log --stat | cat tulos
+
 commit c29b4318be87a34e4271651cb56e64c6d0f0834b
 Author: rubenjarvinen <rubenjarvinen@gmail.com>
 Date:   Thu Jun 1 18:38:16 2023 +0300
