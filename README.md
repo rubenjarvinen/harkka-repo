@@ -1,6 +1,6 @@
 # Lue tämä!
 
-## Tämä kansio sisältää kaiken mitä sinun pitää tietää repositorioni sisällöstä.
+### Tämä kansio sisältää kaiken mitä sinun pitää tietää repositorioni sisällöstä.
 
 Kuten Albert Einstein sanoi:
 
